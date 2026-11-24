@@ -1,2 +1,2 @@
 # urja
-An AI Tutor
+Urja AI is an AI-powered personalized learning platform designed to make education smarter, interactive, and accessible. It combines AI tutoring, voice interaction, chapter-wise learning, practice quizzes, personalized explanations, and progress tracking into one platform. The goal is to help students understand concepts deeply, learn at their own pace, and make studying more effective through AI
