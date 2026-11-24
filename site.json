@@ -1,0 +1,11 @@
+{
+  "title": "URJA — Your personal AI learning classroom",
+  "description": "URJA is a personal AI-powered learning environment for CBSE, JEE and NEET students.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.png"
+  }
+}

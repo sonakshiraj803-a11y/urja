@@ -1,0 +1,88 @@
+{
+  "lastValidatedTimestamp": 1795464898708,
+  "projects": {
+    "C:\\Users\\SANTOSH SINGH\\Downloads\\Premium AI Learning Platform": {
+      "name": "urja-learning-platform",
+      "version": "1.0.0"
+    }
+  },
+  "pnpmfiles": [],
+  "filteredInstall": false,
+  "settings": {
+    "autoInstallPeers": true,
+    "blockExoticSubdeps": true,
+    "catalogs": {},
+    "dangerouslyAllowAllBuilds": false,
+    "dedupeDirectDeps": false,
+    "dedupeInjectedDeps": true,
+    "dedupePeerDependents": true,
+    "dedupePeers": false,
+    "dev": true,
+    "excludeLinksFromLockfile": false,
+    "hoistPattern": [
+      "*"
+    ],
+    "hoistWorkspacePackages": true,
+    "injectWorkspacePackages": false,
+    "linkWorkspacePackages": false,
+    "minimumReleaseAge": 1440,
+    "minimumReleaseAgeIgnoreMissingTime": true,
+    "nodeLinker": "isolated",
+    "optional": true,
+    "peersSuffixMaxLength": 1000,
+    "preferWorkspacePackages": false,
+    "production": true,
+    "publicHoistPattern": [],
+    "registryRoutes": {
+      "@jsr": "https://npm.jsr.io/"
+    },
+    "virtualStoreDirMaxLength": 60
+  },
+  "validation": {
+    "recordedAtNs": 1795464898728119900,
+    "files": {
+      "C:\\Users\\SANTOSH SINGH\\Downloads\\Premium AI Learning Platform\\pnpm-lock.yaml": {
+        "mtimeNs": 1795463560645490100,
+        "ctimeNs": 1795463560647488900,
+        "size": 44564,
+        "digest": "0aa4aa17b3c9e1642cb5ba9090aceeeb"
+      }
+    },
+    "lockfile": "0aa4aa17b3c9e1642cb5ba9090aceeeb",
+    "manifests": {
+      ".": "46762e0cebf0d62d18dac823a7c4b9fe"
+    },
+    "localDependencies": {
+      "0aa4aa17b3c9e1642cb5ba9090aceeeb": {}
+    },
+    "manifestFiles": {
+      ".": {
+        "fileName": "package.json",
+        "mtimeNs": 1795464819788094200,
+        "ctimeNs": 1795464819788094200,
+        "size": 658,
+        "fields": {
+          "name": "urja-learning-platform",
+          "version": "1.0.0",
+          "dependencies": {
+            "@google/genai": "^3.6.1",
+            "react": "^19.0.0",
+            "react-dom": "^19.0.0"
+          },
+          "devDependencies": {
+            "@tailwindcss/vite": "^4.0.0",
+            "@types/node": "^22.0.0",
+            "@types/react": "^19.0.0",
+            "@types/react-dom": "^19.0.0",
+            "@vitejs/plugin-react": "^6.0.0",
+            "oxfmt": "^0.76.0",
+            "tailwindcss": "^4.0.0",
+            "typescript": "^5.7.0",
+            "vite": "^8.1.7"
+          }
+        },
+        "fieldsRevision": 2
+      }
+    }
+  }
+}
